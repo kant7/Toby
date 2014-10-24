@@ -5,6 +5,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class HelloService {
     public String sayHello() {
-        return "Hello world! 남궁훈입니다. ㅋㅋ ㅇㅇ11";
+        return "Hello world! 남궁훈입니다. ㅋㅋ ㅇㅇ11 aa";
     }
 }
